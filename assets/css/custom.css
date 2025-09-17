@@ -28,6 +28,9 @@
   margin: 0 0 1rem 0;    /* Space between entries */
 }
 
+/* Hanging indent for references */
+.hanging-indent { text-indent: -1.5em; padding-left: 1.5em; }
+
 /* Reduce top & bottom padding for resume-biography-3 block */
 #section-resume-biography-3 {
   padding-top: 2rem !important;   /* smaller top */
@@ -41,3 +44,18 @@
 #teaching time { display: none !important; }
 #teaching .hb-card-meta .dot,
 #teaching .hb-meta .dot { display: none !important; }
+
+
+/* WIDEN this markdown section */
+#papers .prose, #section-papers .prose,
+#papers .max-w-prose, #section-papers .max-w-prose {
+  max-width: 68rem !important;   /* ~1088px; tweak as you like */
+}
+
+/* Remove default Typography margins on citation <p> */
+.prose :where(p.hanging-indent) {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+

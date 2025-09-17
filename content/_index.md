@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '4rem'
+  spacing: '3rem'
 
 sections:
   - block: resume-biography-3
@@ -30,22 +30,33 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
 
-  - block: markdown
-    id: research
-    content:
-      title: '📚 Publications'
-      subtitle: ''
-      text: |-
-        <small>(* denotes equal authorship.)</small>
+  # - block: markdown
+  #   id: research
+  #   content:
+  #     title: '📚 Publications'
+  #     subtitle: ''
+  #     text: |-
+  #       <small>(* denotes equal authorship.)</small>
 
-        <div class="hanging-indent">
+  #       <div class="hanging-indent">
 
-        \* Kubitz, G., Page, L., & Wan, H. (2025). Momentum in contests and its underlying behavioral mechanisms. *Economic Theory*, *79*(1), 301–340. https://doi.org/10.1007/s00199-024-01557-w  
+  #       \* Kubitz, G., Page, L., & Wan, H. (2025). Momentum in contests and its underlying behavioral mechanisms. *Economic Theory*, *79*(1), 301–340. https://doi.org/10.1007/s00199-024-01557-w  
 
 
-        </div>
-    design:
-      columns: '1'
+  #       </div>
+  #   design:
+  #     columns: '1'
+
+  # - block: markdown
+  #   id: research
+  #   content:
+  #     title: '📄 News'
+  #     subtitle: ''
+  #     text: |-
+
+
+  #   design:
+  #     columns: '1'
 
   # - block: collection
   #   id: papers
