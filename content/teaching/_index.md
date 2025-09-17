@@ -1,5 +1,5 @@
 ---
-title: My Page
+title: Teaching
 type: landing
 
 sections:
