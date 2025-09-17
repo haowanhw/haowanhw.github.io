@@ -166,6 +166,6 @@ education:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I'm a 2nd-year Ph.D. student in Applied Economics and Management at Cornell University, advised by Professor Aija Leiponen. My reseach interests are in Strategy and Innovation, particularly in the telecommunication industry. 
+I'm a 2nd-year Ph.D. student in Applied Economics and Management at Cornell University, advised by Professor [Aija Leiponen](https://business.cornell.edu/faculty-research/faculty/ael24/). My reseach interests are in Strategy and Innovation, particularly in the wireless telecommunication industry. 
 
 
