@@ -1,0 +1,8 @@
+
+/* hide the “Made with Hugo Blox” line */
+.powered-by.text-sm.opacity-80 { display: none !important; }
+
+/* hide any referral/CTA links if they’re present */
+.powered-by a[href*="hugoblox.com"] { display: none !important; }
+
+/* keep copyright: it's usually .powered-by.text-center without text-sm */
