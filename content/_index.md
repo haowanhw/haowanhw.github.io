@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '4rem'
 
 sections:
   - block: resume-biography-3
@@ -30,18 +30,22 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
 
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  - block: markdown
+    id: research
+    content:
+      title: '📚 Publications'
+      subtitle: ''
+      text: |-
+        <small>(* denotes equal authorship.)</small>
 
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        <div class="hanging-indent">
 
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
+        \* Kubitz, G., Page, L., & Wan, H. (2025). Momentum in contests and its underlying behavioral mechanisms. *Economic Theory*, *79*(1), 301–340. https://doi.org/10.1007/s00199-024-01557-w  
+
+
+        </div>
+    design:
+      columns: '1'
 
   # - block: collection
   #   id: papers

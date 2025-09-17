@@ -6,3 +6,30 @@
 .powered-by a[href*="hugoblox.com"] { display: none !important; }
 
 /* keep copyright: it's usually .powered-by.text-center without text-sm */
+
+/* Desktop/tablet (≥640px): wide, no gutters */
+#research .px-6 { padding-inline: 0 !important; }
+#research .items-center { align-items: flex-start !important; }
+#research .justify-center { justify-content: flex-start !important; }
+#research .max-w-prose { max-width: 72ch !important; }
+
+/* Phones (<640px): add padding back, let text scale */
+@media (max-width: 640px) {
+  #research .px-6 { padding-inline: 1rem !important; }  /* ~16px side padding */
+  #research .max-w-prose { max-width: 100% !important; }
+  #research h2 { font-size: 1.375rem !important; line-height: 1.2 !important; }
+  #research .prose p { font-size: 1rem !important; line-height: 1.6 !important; }
+}
+
+/* Apply hanging indent to publication-style paragraphs */
+.hanging-indent p {
+  text-indent: -2em;     /* Pull first line back */
+  padding-left: 2em;     /* Indent all other lines */
+  margin: 0 0 1rem 0;    /* Space between entries */
+}
+
+/* Reduce top & bottom padding for resume-biography-3 block */
+#section-resume-biography-3 {
+  padding-top: 2rem !important;   /* smaller top */
+  padding-bottom: 0rem !important; /* smaller bottom */
+}
