@@ -58,4 +58,10 @@
   margin-bottom: 0 !important;
 }
 
-
+/* Hide the search button (desktop + mobile) */
+.page-header [data-search-toggle],
+#nav-menu [data-search-toggle],
+button[aria-label="toggle search"],
+button[aria-label="Toggle search"] {
+  display: none !important;
+}

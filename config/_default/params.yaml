@@ -59,5 +59,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  search:
-    provider: fuse
+
