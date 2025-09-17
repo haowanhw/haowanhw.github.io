@@ -33,3 +33,11 @@
   padding-top: 2rem !important;   /* smaller top */
   padding-bottom: 0rem !important; /* smaller bottom */
 }
+
+/* TEMP: prove CSS is loading on this section */
+#teaching { outline: 2px solid transparent; }
+
+/* Hide the printed date and the dot separator in the awards cards */
+#teaching time { display: none !important; }
+#teaching .hb-card-meta .dot,
+#teaching .hb-meta .dot { display: none !important; }

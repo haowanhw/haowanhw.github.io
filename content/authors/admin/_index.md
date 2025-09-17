@@ -142,28 +142,38 @@ education:
 # #   Add/remove as many awards below as you like.
 # #   Only `title`, `awarder`, and `date` are required.
 # #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Best Paper Award
-#     url: https://neurips.cc/
-#     date: '2022-12-01'
-#     awarder: NeurIPS
-#     icon: hero/trophy
-#     summary: |
-#       Awarded for groundbreaking work on efficient training of large models.
-#   - title: AI Innovation Grant
-#     url: https://www.nsf.gov/
-#     date: '2021-06-15'
-#     awarder: National Science Foundation
-#     icon: hero/currency-dollar
-#     summary: |
-#       $500,000 grant for research in ethical AI development.
-#   - title: Outstanding PhD Thesis
-#     url: https://www.stanford.edu/
-#     date: '2019-06-30'
-#     awarder: Stanford University
-#     icon: hero/academic-cap
-#     summary: |
-#       Recognized for contributions to scaling laws in deep learning.
+awards:
+  - title: AEM 3220/5220 Digital Business Strategy
+    url: https://classes.cornell.edu/browse/roster/FA25/class/AEM/3220
+    date: ''
+    awarder: Cornell University
+    # icon: hero/trophy
+    summary: |
+      Fall, 2025
+
+  - title: ECON 3350 Applied Econometrics for Macroeconomics and Finance
+    url: https://programs-courses.uq.edu.au/course.html?course_code=ECON3350
+    date: '2023-02-01'
+    awarder: University of Queensland
+    # icon: hero/trophy
+    summary: |
+      Semester 1, 2023. Student evaluation: 4.8/5.0
+      
+  - title: ECON 3440 Competition Policy and Regulation
+    url: https://programs-courses.uq.edu.au/course.html?course_code=ECON3440
+    date: '2023-02-01'
+    awarder: University of Queensland
+    # icon: hero/currency-dollar
+    summary: |
+      Semester 1, 2023. Student evaluation: 4.5/5.0
+
+  - title: ECON 3360 Causal Inference for Microeconometrics
+    url: https://programs-courses.uq.edu.au/course.html?course_code=ECON3360
+    date: '2022-07-01'
+    awarder: University of Queensland
+    # icon: hero/academic-cap
+    summary: |
+      Semester 2, 2022. Student evaluation: 4.4/5.0
 ---
 
 I'm a 2nd-year Ph.D. student in Applied Economics and Management at Cornell University, advised by Professor [Aija Leiponen](https://business.cornell.edu/faculty-research/faculty/ael24/). My reseach interests are in Strategy and Innovation, particularly in the wireless telecommunication industry. 
