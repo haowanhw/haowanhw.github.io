@@ -14,8 +14,9 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Hao Wan – PhD student in Applied Economics and Management at Cornell University. Research on digital economics, strategy, and innovation.'
-    twitter: 'GetResearchDev'
+    description: 'Hao Wan – PhD student in Applied Economics and Management at Cornell University. Research on strategy, innovation and digital economics.'
+    keywords: ["Hao Wan", "Cornell University", "economics", "strategy", "innovation", "business", "digital"]
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
