@@ -38,20 +38,20 @@ profiles:
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/haowanhw
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hao-wan/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/citations?user=alexjohnson
+  - icon: brands/github
+    url: https://github.com/haowanhw
   - icon: academicons/orcid
     url: https://orcid.org/0009-0006-0484-2506
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=bIjUXP0AAAAJ
 
-# interests:
-#   - Large Language Models
-#   - Computer Vision
-#   - Reinforcement Learning
-#   - AI Ethics
+interests:
+  - Strategy
+  - Innovation
+  - Digital Economics
+  - Natural Language Processing (NLP)
 
 education:
   - area: Ph.D. Applied Economics and Management
@@ -176,6 +176,8 @@ awards:
       Semester 2, 2022. Student evaluation: 4.4/5.0
 ---
 
-I'm a 2nd-year Ph.D. student in Applied Economics and Management at Cornell University, advised by Professor [Aija Leiponen](https://business.cornell.edu/faculty-research/faculty/ael24/). My reseach interests are in Strategy and Innovation, particularly in the wireless telecommunication industry. 
+I'm a 2nd-year Ph.D. student in Applied Economics and Management at Cornell University, advised by Professor [Aija Leiponen](https://business.cornell.edu/faculty-research/faculty/ael24/). 
+
+My research interests are in Strategy and Innovation. Recently, I have been utilizing Natural Language Processing (NLP) to study the trajectories of innovation in the wireless telecommunications industry.
 
 
