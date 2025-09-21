@@ -33,8 +33,8 @@
 
 /* Reduce top & bottom padding for resume-biography-3 block */
 #section-resume-biography-3 {
-  padding-top: 2rem !important;   /* smaller top */
-  padding-bottom: 0rem !important; /* smaller bottom */
+  padding-top: 1rem !important;   /* smaller top */
+  padding-bottom: 1rem !important; /* smaller bottom */
 }
 
 /* TEMP: prove CSS is loading on this section */
