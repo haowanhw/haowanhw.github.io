@@ -50,6 +50,7 @@ profiles:
 interests:
   - Strategy
   - Innovation
+  - Organizational Behavior
   - Digital Economics
   - Natural Language Processing (NLP)
 
