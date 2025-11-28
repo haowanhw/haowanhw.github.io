@@ -175,7 +175,7 @@ awards:
       Semester 2, 2022. Student evaluation: 4.4/5.0
 ---
 
-I'm a 2nd-year Ph.D. student in Applied Economics and Management at Cornell University, advised by Professor [Aija Leiponen](https://business.cornell.edu/faculty-research/faculty/ael24/). 
+I'm a 2nd-year Ph.D. student in Applied Economics and Management at Cornell University. My name is pronounced "*How*."
 
 My research interests are in Strategy and Innovation. Recently, I have been utilizing Natural Language Processing (NLP) to study the trajectories of innovation in the wireless telecommunications industry.
 
