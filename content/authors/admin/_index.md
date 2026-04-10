@@ -142,9 +142,25 @@ education:
 # #   Only `title`, `awarder`, and `date` are required.
 # #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: AEM 2601 Strategy
+    url: 
+    date: ''
+    awarder: Cornell University
+    # icon: hero/trophy
+    summary: |
+      Spring, 2026
+    
+  - title: AEM 3350 Managerial & Employee Biases in Pricing/Incentives
+    url: 
+    date: ''
+    awarder: Cornell University
+    # icon: hero/trophy
+    summary: |
+      Spring, 2026
+  
   - title: AEM 3220/5220 Digital Business Strategy
     url: https://classes.cornell.edu/browse/roster/FA25/class/AEM/3220
-    date: ''
+    date: '2025-12-01'
     awarder: Cornell University
     # icon: hero/trophy
     summary: |

@@ -6,9 +6,26 @@ sections:
   - block: markdown
     id: papers
     content:
-      title: "Publications"
+      title: "Working Paper"
       text: |-
         <small>(* denotes equal authorship.)</small>
+        <div class="space-y-6">
+
+        <!-- Paper 1 -->
+        <div class="space-y-0.5">
+          <p class="hanging-indent mb-0">
+            * Jones, S., Leiponen, A., Vasudeva, G., & Wan, H. (2015). Free to innovate? Intellectual property (in)validation and standard development in wireless telecommunications.
+          </p>
+        </div>
+        </div>
+    design:
+      css_class: "px-0 sm:px-6"
+  
+  - block: markdown
+    id: papers
+    content:
+      title: "Pre-Doctoral Publications"
+      text: |-
         <div class="space-y-6">
 
         <!-- Paper 1 -->
@@ -32,8 +49,9 @@ sections:
             </div>
           </details>
         </div>
-
         </div>
     design:
       css_class: "px-0 sm:px-6"
+      spacing:
+        padding: ["0", "", "", ""]
 ---
