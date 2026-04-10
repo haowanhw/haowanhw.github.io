@@ -14,7 +14,7 @@ sections:
         <!-- Paper 1 -->
         <div class="space-y-0.5">
           <p class="hanging-indent mb-0">
-            * Jones, S., Leiponen, A., Vasudeva, G., & Wan, H. (2015). Free to innovate? Intellectual property (in)validation and standard development in wireless telecommunications.
+            * Jones, S., Leiponen, A., Vasudeva, G., & Wan, H. (2026). Free to innovate? Intellectual property (in)validation and standard development in wireless telecommunications.
           </p>
         </div>
         </div>
