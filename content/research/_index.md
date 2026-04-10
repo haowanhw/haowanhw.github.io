@@ -24,7 +24,7 @@ sections:
   - block: markdown
     id: papers
     content:
-      title: "Pre-Doctoral Publications"
+      title: "Pre-Doctoral Publication"
       text: |-
         <div class="space-y-6">
 
