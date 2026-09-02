@@ -40,8 +40,8 @@ profiles:
   #   url: https://twitter.com/AlexAIResearch
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hao-wan/
-  - icon: brands/github
-    url: https://github.com/haowanhw
+  # - icon: brands/github
+  #   url: https://github.com/haowanhw
   - icon: academicons/orcid
     url: https://orcid.org/0009-0006-0484-2506
   - icon: academicons/google-scholar
@@ -50,7 +50,6 @@ profiles:
 interests:
   - Strategy
   - Innovation
-  - Natural Language Processing (NLP)
 
 education:
   - area: Ph.D. Applied Economics and Management
@@ -191,8 +190,7 @@ awards:
       Semester 2, 2022. Student evaluation: 4.4/5.0
 ---
 
-I'm a 2nd-year Ph.D. student in Applied Economics and Management at Cornell University, advised by Professor Aija Leiponen.
+I’m a third-year Ph.D. student in Applied Economics and Management at Cornell University.
 
-My research interests are in Strategy and Innovation. Recently, I have been utilizing Natural Language Processing (NLP) to study the trajectories of innovation in the wireless telecommunications industry.
-
+My research interests are in Strategy and Innovation, with a particular focus on intellectual property, standard setting, and innovation ecosystems. My current research examines how firms respond to changes in the intellectual property environment and how these changes shape innovation strategies and the development of new technologies.
 
